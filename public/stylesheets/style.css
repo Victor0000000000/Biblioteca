@@ -3,10 +3,45 @@
   padding: 0;
   list-style: none;
 }
-.link{
-  color:rgb(63, 8, 228) ;
+.inicio1{
+  color:rgb(219, 194, 201) ;
+  
 }
 body{
-  background-color: black;
+  background-color: rgb(80, 76, 76);
 
+}
+.livro{
+color: yellowgreen;
+}
+.palavras{
+  color: cyan;
+}
+.titulo{
+  color: crimson;
+  font-style: italic;
+}
+.negr{
+  font-weight: bold;
+}
+
+.card {
+  width: 265px;
+  border: 1px solid #0d0659;
+  border-radius: 10px;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
+  margin: 1px;
+  padding: 10px;
+  background-color: #0e0572;
+  text-decoration: underline;
+}
+.texto{
+  color: lightgreen;
+}
+.titulo2{
+  font-style: italic;
+ color: limegreen;
+}
+.form-group{
+font-weight: bolder;
 }
